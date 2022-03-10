@@ -1,7 +1,7 @@
 {
     "name": "EjemENTD2122",
     "version": "1.0.0",
-    "private": true,
+    "private": false,
     "keywords": ["NetBeans", "node.js", "sample"],
     "author": "NetBeans",
     "scripts": {
